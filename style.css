@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+    /* the path to the pic u willl use as a background */
+    background-image: url('Assets/back.png');
+    background-size: cover;
+}
+.trying {
+    height: 0px;
+}
